@@ -5,6 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/Main.unity
-    guid: 479e4f7da358a8a4ab131c3e603654e9
+    path: Assets/Scenes/puzzler.unity
+    guid: 3111ee5fbb6f1284d9794a900c1cccb4
