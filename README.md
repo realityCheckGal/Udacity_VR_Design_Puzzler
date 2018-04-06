@@ -1,5 +1,5 @@
 ## Udacity VR Developer Puzzler Design #4
-The Puzzler project focuses on applying design thinking to the process of creating a VR experience.  In addition to continuing to strenghten skills in creating an environment, this project focuses on UX deliverables.
+The Puzzler project focuses on applying design thinking to the process of creating a VR experience.  In addition to continuing to strenghten skills in creating an environment, this project includes creating a simple UI screen, basic user testing principles and focuses on documentation of the process.
 
 ## Versions
 - Unity 2017.2.0f3
