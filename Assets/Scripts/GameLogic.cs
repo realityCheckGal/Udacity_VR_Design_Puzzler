@@ -18,7 +18,7 @@ public class GameLogic : MonoBehaviour
 	public GameObject[] puzzleSpheres;
 
 	// How many times the orbs light up during the pattern display.
-	public int puzzleLength = 5;
+	public int puzzleLength = 7;
 
 	// How many seconds between the orbs light up during the pattern display.
 	public float puzzleSpeed = 1f;
