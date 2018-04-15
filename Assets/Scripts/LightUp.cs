@@ -4,7 +4,7 @@ using System.Collections;
 public class LightUp : MonoBehaviour
 {
 	// The initial material of the orb.
-	private Material defaultMaterial;
+	public Material defaultMaterial;
 
 	// The material used to light up the orb.
 	public Material lightUpMaterial;
@@ -16,7 +16,7 @@ public class LightUp : MonoBehaviour
 	void Start()
 	{
 		// Assign the initial material of the orb as the default material.
-		defaultMaterial = this.GetComponent<MeshRenderer>().material;
+		//defaultMaterial = this.GetComponent<MeshRenderer>().material;
 	}
 		
 	// Called when the orb is clicked.

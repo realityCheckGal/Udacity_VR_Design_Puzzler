@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: e342a1fac0e043d4ca51a588450b074a
+timeCreated: 1523741722
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Loft01
+    100002: Loft02
+    100004: Loft03
+    100006: Loft04
+    100008: Loft05
+    100010: Loft06
+    100012: Loft08
+    100014: OilTank01
+    100016: Sphere01
+    100018: spike02
+    100020: spike03
+    100022: spike04
+    100024: spike05
+    100026: spike06
+    100028: spike07
+    100030: spike08
+    100032: spike09
+    100034: spike10
+    100036: spike11
+    100038: spike12
+    100040: spike13
+    100042: spike14
+    100044: spike15
+    100046: spike16
+    100048: spike17
+    100050: spike18
+    100052: spike19
+    100054: spike20
+    100056: spike21
+    100058: spike22
+    100060: spike23
+    100062: spike24
+    100064: spike25
+    100066: spike26
+    100068: //RootNode
+    100070: Torus01
+    100072: Torus02
+    400000: Loft01
+    400002: Loft02
+    400004: Loft03
+    400006: Loft04
+    400008: Loft05
+    400010: Loft06
+    400012: Loft08
+    400014: OilTank01
+    400016: Sphere01
+    400018: spike02
+    400020: spike03
+    400022: spike04
+    400024: spike05
+    400026: spike06
+    400028: spike07
+    400030: spike08
+    400032: spike09
+    400034: spike10
+    400036: spike11
+    400038: spike12
+    400040: spike13
+    400042: spike14
+    400044: spike15
+    400046: spike16
+    400048: spike17
+    400050: spike18
+    400052: spike19
+    400054: spike20
+    400056: spike21
+    400058: spike22
+    400060: spike23
+    400062: spike24
+    400064: spike25
+    400066: spike26
+    400068: //RootNode
+    400070: Torus01
+    400072: Torus02
+    2300000: Loft01
+    2300002: Loft02
+    2300004: Loft03
+    2300006: Loft04
+    2300008: Loft05
+    2300010: Loft06
+    2300012: Loft08
+    2300014: OilTank01
+    2300016: Sphere01
+    2300018: spike02
+    2300020: spike03
+    2300022: spike04
+    2300024: spike05
+    2300026: spike06
+    2300028: spike07
+    2300030: spike08
+    2300032: spike09
+    2300034: spike10
+    2300036: spike11
+    2300038: spike12
+    2300040: spike13
+    2300042: spike14
+    2300044: spike15
+    2300046: spike16
+    2300048: spike17
+    2300050: spike18
+    2300052: spike19
+    2300054: spike20
+    2300056: spike21
+    2300058: spike22
+    2300060: spike23
+    2300062: spike24
+    2300064: spike25
+    2300066: spike26
+    2300068: Torus01
+    2300070: Torus02
+    3300000: Loft01
+    3300002: Loft02
+    3300004: Loft03
+    3300006: Loft04
+    3300008: Loft05
+    3300010: Loft06
+    3300012: Loft08
+    3300014: OilTank01
+    3300016: Sphere01
+    3300018: spike02
+    3300020: spike03
+    3300022: spike04
+    3300024: spike05
+    3300026: spike06
+    3300028: spike07
+    3300030: spike08
+    3300032: spike09
+    3300034: spike10
+    3300036: spike11
+    3300038: spike12
+    3300040: spike13
+    3300042: spike14
+    3300044: spike15
+    3300046: spike16
+    3300048: spike17
+    3300050: spike18
+    3300052: spike19
+    3300054: spike20
+    3300056: spike21
+    3300058: spike22
+    3300060: spike23
+    3300062: spike24
+    3300064: spike25
+    3300066: spike26
+    3300068: Torus01
+    3300070: Torus02
+    4300000: Sphere01
+    4300002: spike02
+    4300004: spike03
+    4300006: spike04
+    4300008: spike05
+    4300010: spike06
+    4300012: spike07
+    4300014: spike08
+    4300016: spike09
+    4300018: spike10
+    4300020: spike11
+    4300022: spike12
+    4300024: spike13
+    4300026: spike14
+    4300028: spike15
+    4300030: spike16
+    4300032: spike17
+    4300034: spike18
+    4300036: spike19
+    4300038: spike20
+    4300040: spike21
+    4300042: spike22
+    4300044: spike23
+    4300046: spike24
+    4300048: spike25
+    4300050: spike26
+    4300052: Torus01
+    4300054: Loft01
+    4300056: Loft02
+    4300058: Loft03
+    4300060: Loft04
+    4300062: Loft05
+    4300064: Loft06
+    4300066: Loft08
+    4300068: Torus02
+    4300070: OilTank01
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ground_Grey_Dirt
+    second: {fileID: 2100000, guid: afb7445556359dd4cb1e7d97c92b753f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Chrome
+    second: {fileID: 2100000, guid: 08ef60ba46807e24eba783500d47f270, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grip
+    second: {fileID: 2100000, guid: b1d5906fab99e4d40abd91cca324dfc0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

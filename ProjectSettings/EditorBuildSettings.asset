@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/puzzler.unity
     guid: 3111ee5fbb6f1284d9794a900c1cccb4
   - enabled: 0
@@ -17,3 +17,6 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/puzzler-motion.unity
     guid: eba7b0ab271445f42a01b23bf6e8bcb1
+  - enabled: 1
+    path: Assets/Scenes/puzzler-revisions.unity
+    guid: 37f5118a9b6937c419f4ce5269ee91e0
